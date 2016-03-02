@@ -250,6 +250,16 @@
 			]
 		},
 		{
+			"name": "MapfileSyntax",
+			"details": "https://github.com/szinggeler/SublimeMapfileSyntax",
+			"releases": [
+				{
+					"sublime_text": ">=3103",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/MakiseKurisu/MarieAssembly",
 			"labels": ["language syntax"],
 			"releases": [
@@ -1461,6 +1471,16 @@
 				}
 			]
 		},
+		{
+			"name": "Monkberry",
+			"details": "https://github.com/monkberry/language-monkberry",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},		
 		{
 			"name": "Monochrome Color Schemes",
 			"details": "https://github.com/kristopherjohnson/MonochromeSublimeText",
